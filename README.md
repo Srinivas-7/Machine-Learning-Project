@@ -1,21 +1,52 @@
-# Machine Learning Project
+# 📊 FAOStat Data Analysis & Machine Learning Project
 
-## 📌 Project Description
-This project is a machine learning model for __________.
+## 📌 Overview
+This project focuses on analyzing and modeling agricultural and food-related data obtained from FAOStat. The objective is to extract meaningful insights and build a Machine Learning model to predict trends and patterns in global food and agriculture statistics.
 
-## 📂 Dataset
-- Source: __________
-- Number of samples: __________
+The project demonstrates practical implementation of data preprocessing, visualization, and predictive modeling using Python.
 
-## ⚙️ Technologies Used
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
+---
 
-## 🚀 How to Run
+## 🌍 Data Source
+- Source: FAOStat (Food and Agriculture Organization of the United Nations)
+- Website: https://www.fao.org/faostat/
+- Domain: Agriculture, Food Production, Trade, and Sustainability
 
-1. Clone this repository:
+The dataset contains country-wise and year-wise agricultural indicators such as production, yield, imports, exports, and consumption.
+
+> Note: Raw datasets are not uploaded due to size and licensing restrictions.
+
+---
+
+## ⚙️ Technologies & Libraries Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## 📁 Project Structure
+
+ml-project/
+│
+├── ml_project.ipynb # Main Jupyter Notebook
+├── README.md # Project Documentation
+├── requirements.txt # Dependencies
+└── .gitignore # Ignored files
+
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+cd your-repo-name
