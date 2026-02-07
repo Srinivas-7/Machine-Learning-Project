@@ -34,10 +34,10 @@ The dataset contains country-wise and year-wise agricultural indicators such as 
 
 ml-project/
 │
-├── ml_project.ipynb # Main Jupyter Notebook
-├── README.md # Project Documentation
-├── requirements.txt # Dependencies
-└── .gitignore # Ignored files
+├── ml_project.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 
 ---
